@@ -6,10 +6,13 @@ let's make something funny to escape frrom this shitty company
 nodejs.org 접속 후 다운
 
 - cmd 오픈
+
     node -v
+
     npm install express-generator -g
 
 <설치 확인>
+
     express --version
 
 
@@ -17,4 +20,5 @@ nodejs.org 접속 후 다운
     npm start
 
 - 웹 브라우저에서 입력
+
 localhost:3000
