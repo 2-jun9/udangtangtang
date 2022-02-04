@@ -5,7 +5,8 @@ let's make something funny to escape frrom this shitty company
 # window 설치법
 nodejs.org 접속 후 다운
 
-- cmd 오픈
+
+<cmd오픈>
 
     node -v
 
@@ -19,6 +20,5 @@ nodejs.org 접속 후 다운
 # 디렉터리에서 터미널 실행
     npm start
 
-- 웹 브라우저에서 입력
-
+<웹 브라우저에서 입력>
 localhost:3000
