@@ -1,5 +1,9 @@
 let's make something funny to escape frrom this shitty company
 
+# 초안
+빡치는 일 생길 때 마다 접속해서 빡치게 한 사람 이름 제출
+
+이름 제출된 횟수 카운트 해서 카운트가 늘 수록 나무가 점점 자라는거 보여주기
 
 
 # window 에서 개발환경 설정
