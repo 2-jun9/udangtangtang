@@ -1,3 +1,13 @@
+h1 {
+  position: absolute;
+  width: 807px;
+  height: 35px;
+  left: 317px;
+  top: 509px;
+  font: 30px;
+  color: #280D00;
+}
+
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
